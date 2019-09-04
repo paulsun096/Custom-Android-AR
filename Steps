@@ -8,4 +8,11 @@ Steps for building AR web application
 9/3/2019
 
 - Unity 
- - Run AR templates
+ - Run AR templates* incomplete
+ 
+9/4/2019
+
+Try native ar-development using Andoird Studio version > 7, test on Android device
+
+- Andoird
+  - ARCore
