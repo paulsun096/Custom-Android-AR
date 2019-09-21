@@ -1,3 +1,3 @@
 install Sceneform plugin before adding custom object
 
-get optimized file obj file, __
+use optimized file obj file as scuplture display
