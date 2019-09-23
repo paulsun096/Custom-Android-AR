@@ -1,3 +1,12 @@
-install Sceneform plugin before adding custom object
+<h2>AR in Shibuya, Tokyo</h2>
 
-use optimized file obj file as scuplture display
+This project is based on the AR "hellosceneform" Android sample project. 
+
+I imported the art assets (single .obj file, no texture) into the sceneform sample project using the sceneform android plugin.
+
+Dependencies: 
+
+- Android SDK
+- Sceneform android plugin
+
+
