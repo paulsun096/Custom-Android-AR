@@ -5,7 +5,8 @@ AR-Shibuya is based on: https://developers.google.com/ar/develop/java/sceneform/
 - import the art assets as (single .obj file, no texture) into the sceneform sample project using the sceneform android plugin.
 - convert .obj -> .sbf 
 - replace Uri.parse value to the custom .sfb file
-![](custom_obj.png)
+
+![](custom_obj.PNG)
 
 
 
